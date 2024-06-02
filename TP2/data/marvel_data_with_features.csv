@@ -1,0 +1,675 @@
+Hero_id,Hero_name,Movie,Affiliation,degree,closeness,betweenness,Spider-Man: Homecoming,The Incredible Hulk,Shang-Chi and the Legend of the Ten Rings,Captain America: The First Avenger,Captain America: The Winter Soldier,Eternals,Avengers: Endgame,Iron Man 3,Guardians of the Galaxy Vol. 2,Doctor Strange in the Multiverse of Madness,Doctor Strange,Black Panther: Wakanda Forever,Ant-Man,Captain America: Civil War,Ant-Man and the Wasp,Ant-Man and the Wasp: Quantumania,Iron Man 2,Captain Marvel,Thor: Love and Thunder,Black Panther,Avengers: Infinity War,Guardians of the Galaxy,Marvel’s The Avengers,Spider-Man: Far From Home,Spider-Man: No Way Home,Avengers: Age of Ultron,Thor: Ragnarok,Black Widow,Thor: The Dark World,Iron Man,Thor,Villain,is_villain
+0,Aaron Davis,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+1,Abomination,The Incredible Hulk,Unnafiliated,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Abomination,1.0
+1,Abomination,Shang-Chi and the Legend of the Ten Rings,Unnafiliated,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Abomination,1.0
+2,Abraham,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+3,Abraham Erskine,Captain America: The First Avenger,Unnafiliated,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+4,Agent 13,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+5,Ajak,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+6,Akihiko,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+7,Aldrich Killian,Iron Man 3,A.I.M.,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aldrich Killian,1.0
+8,Aleta Ogord,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+9,Alexander Pierce,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Alexander Pierce,1.0
+9,Alexander Pierce,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Alexander Pierce,1.0
+10,America Chavez,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+11,Ancient One,Doctor Strange,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+11,Ancient One,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+12,Aneka,Black Panther: Wakanda Forever,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+13,Annie Marie Hoag,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+14,Ant-Man,Ant-Man,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+14,Ant-Man,Captain America: Civil War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+14,Ant-Man,Ant-Man and the Wasp,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+14,Ant-Man,Avengers: Endgame,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+14,Ant-Man,Ant-Man and the Wasp: Quantumania,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+15,Anton Vanko,Iron Man 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+16,Arishem,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Arishem,1.0
+17,Arnim Zola,Captain America: The First Avenger,Unnafiliated,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+17,Arnim Zola,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+18,Att-Lass,Captain Marvel,Starforce,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+19,Attuma,Black Panther: Wakanda Forever,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+20,Axl Heimdallson,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+21,Ayesha,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ayesha,1.0
+22,Ayo,Captain America: Civil War,Dora Milaje,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+22,Ayo,Black Panther,Dora Milaje,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+22,Ayo,Avengers: Infinity War,Dora Milaje,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+22,Ayo,Black Panther: Wakanda Forever,Dora Milaje,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+23,Bast,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+24,Bereet,Guardians of the Galaxy,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+25,Beth,Marvel’s The Avengers,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0.0
+26,Betty Brant,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+26,Betty Brant,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+26,Betty Brant,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+27,Betty Ross,The Incredible Hulk,Unnafiliated,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+28,Bill Foster,Ant-Man and the Wasp,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+29,Billy Maximoff,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+30,Black Bolt,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+31,Black Panther,Captain America: Civil War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+31,Black Panther,Black Panther,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+31,Black Panther,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+31,Black Panther,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+31,Black Panther,Black Panther: Wakanda Forever,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+32,Black Widow,Iron Man 2,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+32,Black Widow,Captain America: The Winter Soldier,Avengers,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+32,Black Widow,Avengers: Age of Ultron,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+32,Black Widow,Captain America: Civil War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+32,Black Widow,Thor: Ragnarok,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0.0
+32,Black Widow,Avengers: Infinity War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+32,Black Widow,Captain Marvel,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+32,Black Widow,Avengers: Endgame,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+32,Black Widow,Black Widow,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0.0
+32,Black Widow,Shang-Chi and the Legend of the Ten Rings,Avengers,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+33,Blade,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+34,Bor,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+35,Brad Davis,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+36,Brahl,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+37,Brandt,Captain America: The First Avenger,Unnafiliated,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+38,Brock Rumlow,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+38,Brock Rumlow,Captain America: Civil War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+38,Brock Rumlow,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+39,Bron-Char,Captain Marvel,Starforce,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+40,Cameron Klein,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+41,Captain America,Captain America: The First Avenger,Avengers,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+41,Captain America,Thor: The Dark World,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+41,Captain America,Captain America: The Winter Soldier,Avengers,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+41,Captain America,Avengers: Age of Ultron,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+41,Captain America,Ant-Man,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+41,Captain America,Captain America: Civil War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+41,Captain America,Spider-Man: Homecoming,Avengers,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+41,Captain America,Avengers: Infinity War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+41,Captain America,Captain Marvel,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+41,Captain America,Avengers: Endgame,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+42,Peggy Carter,Doctor Strange in the Multiverse of Madness,Guardians of the Multiverse,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+43,Captain Marvel,Captain Marvel,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+43,Captain Marvel,Avengers: Endgame,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+43,Captain Marvel,Shang-Chi and the Legend of the Ten Rings,Avengers,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+43,Captain Marvel,Doctor Strange in the Multiverse of Madness,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+44,Carina,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+45,Cassie Lang,Ant-Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+45,Cassie Lang,Ant-Man and the Wasp,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+45,Cassie Lang,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+45,Cassie Lang,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+46,Centurion,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+47,Charles,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+48,Charles Xavier,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+49,Charlie-27,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+50,Chess Roberts,Iron Man 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+51,Chester Phillips,Captain America: The First Avenger,Unnafiliated,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+52,Christine Everhart,Iron Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0.0
+52,Christine Everhart,Iron Man 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+53,Christine Palmer,Doctor Strange,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+53,Christine Palmer,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+54,Cindy,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+54,Cindy,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+55,Clea,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+56,Coach Wilson,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+56,Coach Wilson,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+57,Cooper Barton,Avengers: Age of Ultron,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+57,Cooper Barton,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+58,Corvus Glaive,Avengers: Infinity War,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+58,Corvus Glaive,Avengers: Endgame,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+59,Cosmo the Spacedog,Guardians of the Galaxy,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+59,Cosmo the Spacedog,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+60,Council of Kangs,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+61,Cull Obsidian,Avengers: Infinity War,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+61,Cull Obsidian,Avengers: Endgame,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+62,Dale,Ant-Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+62,Dale,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+63,Dane Whitman,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+64,Daniel Drumm,Doctor Strange,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+65,Darcy Lewis,Thor,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+65,Darcy Lewis,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+65,Darcy Lewis,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+66,Darren Cross M.O.D.O.K.,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+67,Darryl,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+68,Dave,Ant-Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+68,Dave,Ant-Man and the Wasp,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+69,Dean of MIT,Captain America: Civil War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+70,Death Dealer,Shang-Chi and the Legend of the Ten Rings,Unnafiliated,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+71,Defender Strange,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+72,Dimitri,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+73,Dionysus,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+74,Doctor Octopus,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+75,Doris Toomes,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+76,Dormammu,Doctor Strange,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Dormammu,1.0
+77,Drax the Destroyer,Guardians of the Galaxy,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+77,Drax the Destroyer,Guardians of the Galaxy Vol. 2,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+77,Drax the Destroyer,Avengers: Infinity War,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+77,Drax the Destroyer,Avengers: Endgame,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+77,Drax the Destroyer,Thor: Love and Thunder,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+78,Dreykov,Black Widow,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Dreykov,1.0
+79,Druig,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+80,E.D.I.T.H.,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+80,E.D.I.T.H.,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+81,Ebony Maw,Avengers: Infinity War,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+81,Ebony Maw,Avengers: Endgame,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+82,Ego,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ego,1.0
+83,Eir,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+84,Eitri,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+85,Electro,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+86,Elihas Starr,Ant-Man and the Wasp,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+87,Ellen Brandt,Iron Man 3,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+88,Eric Savin,Iron Man 3,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+89,Erik Selvig,Thor,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+89,Erik Selvig,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+89,Erik Selvig,Avengers: Age of Ultron,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+89,Erik Selvig,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+90,Eugene “Flash” Thompson,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+90,Eugene “Flash” Thompson,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+90,Eugene “Flash” Thompson,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+91,Everett K. Ross,Captain America: Civil War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+91,Everett K. Ross,Black Panther,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+91,Everett K. Ross,Black Panther: Wakanda Forever,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+92,F.R.I.D.A.Y.,Avengers: Age of Ultron,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+92,F.R.I.D.A.Y.,Captain America: Civil War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+92,F.R.I.D.A.Y.,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+92,F.R.I.D.A.Y.,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+92,F.R.I.D.A.Y.,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+93,Falcon,Captain America: The Winter Soldier,Avengers,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+93,Falcon,Captain America: Civil War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+93,Falcon,Avengers: Infinity War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+93,Falcon,Avengers: Endgame,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+94,Fandral,Thor,Warriors Three,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+94,Fandral,Thor: The Dark World,Warriors Three,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+94,Fandral,Thor: Ragnarok,Warriors Three,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0.0
+94,Fandral,Thor: Love and Thunder,Warriors Three,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+95,Foster,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+95,Foster,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+96,Frigga,Thor,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+96,Frigga,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+96,Frigga,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+96,Frigga,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+97,Gabe Jones,Captain America: The First Avenger,Howling Commandos,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+98,Gale,Ant-Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+99,Gamora,Guardians of the Galaxy,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+99,Gamora,Guardians of the Galaxy Vol. 2,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+99,Gamora,Avengers: Infinity War,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+99,Gamora,Avengers: Endgame,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+100,Garthan Saal,Guardians of the Galaxy,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+101,Gef the Ravager,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+102,Georges Batroc,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+103,Georgi Luchkov,Marvel’s The Avengers,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0.0
+104,Ghost,Ant-Man and the Wasp,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ghost,1.0
+105,Gideon Malick,Marvel’s The Avengers,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0.0
+106,Gilgamesh,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+107,Gilmore Hodge,Captain America: The First Avenger,Unnafiliated,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+108,Gorr the God Butcher,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Gorr the God Butcher,1.0
+109,Graham,Black Panther: Wakanda Forever,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+110,Grandmaster,Thor: Ragnarok,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Grandmaster,1.0
+111,Grandpa Quill,Guardians of the Galaxy,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+111,Grandpa Quill,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+112,Green Goblin,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Green Goblin,1.0
+113,Griot,Black Panther,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+113,Griot,Black Panther: Wakanda Forever,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+114,Groot,Guardians of the Galaxy,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+114,Groot,Guardians of the Galaxy Vol. 2,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+114,Groot,Avengers: Infinity War,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+114,Groot,Avengers: Endgame,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+114,Groot,Thor: Love and Thunder,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+115,Guang Bo,Shang-Chi and the Legend of the Ten Rings,Unnafiliated,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+116,Half-Nut,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+117,Hamir,Doctor Strange,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+117,Hamir,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+118,Hank Pym,Ant-Man and the Wasp,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+118,Hank Pym,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+118,Hank Pym,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+119,Harley Keener,Iron Man 3,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+119,Harley Keener,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+120,"Harold ""Happy"" Hogan",Iron Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0.0
+120,"Harold ""Happy"" Hogan",Iron Man 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+120,"Harold ""Happy"" Hogan",Iron Man 3,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+120,"Harold ""Happy"" Hogan",Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+120,"Harold ""Happy"" Hogan",Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+120,"Harold ""Happy"" Hogan",Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+120,"Harold ""Happy"" Hogan",Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+121,Hawkeye,Thor,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+121,Hawkeye,Avengers: Age of Ultron,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+121,Hawkeye,Captain America: Civil War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+121,Hawkeye,Avengers: Endgame,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+121,Hawkeye,Black Widow,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0.0
+122,Hawley,Marvel’s The Avengers,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0.0
+122,Hawley,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+123,Heimdall,Thor,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+123,Heimdall,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+123,Heimdall,Avengers: Age of Ultron,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+123,Heimdall,Thor: Ragnarok,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0.0
+123,Heimdall,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+123,Heimdall,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+124,Heinz Kruger,Captain America: The First Avenger,Unnafiliated,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+125,Hela,Thor: Ragnarok,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Hela,1.0
+126,Helen Cho,Avengers: Age of Ultron,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+127,Helmut Zemo,Captain America: Civil War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Helmut Zemo,1.0
+128,Hercules,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+129,Ho Yinsen,Iron Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0.0
+129,Ho Yinsen,Iron Man 3,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+130,Hogun,Thor,Warriors Three,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+130,Hogun,Thor: The Dark World,Warriors Three,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+130,Hogun,Thor: Ragnarok,Warriors Three,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0.0
+130,Hogun,Thor: Love and Thunder,Warriors Three,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+131,Hope van Dyne,Ant-Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+132,Howard Stark,Iron Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0.0
+132,Howard Stark,Iron Man 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+132,Howard Stark,Captain America: The First Avenger,Unnafiliated,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+132,Howard Stark,Ant-Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+132,Howard Stark,Captain America: Civil War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+132,Howard Stark,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+133,Howard the Duck,Guardians of the Galaxy,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+133,Howard the Duck,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+134,Hulk,The Incredible Hulk,Avengers,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+134,Hulk,Iron Man 3,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+134,Hulk,Avengers: Age of Ultron,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+134,Hulk,Thor: Ragnarok,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0.0
+134,Hulk,Avengers: Infinity War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+134,Hulk,Captain Marvel,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+134,Hulk,Avengers: Endgame,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+134,Hulk,Shang-Chi and the Legend of the Ten Rings,Avengers,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+135,Ian Boothby,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+136,Ikaris,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+137,Immortus,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+138,Ingrid,Black Widow,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0.0
+139,Iron Man,Iron Man,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0.0
+139,Iron Man,The Incredible Hulk,Avengers,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+139,Iron Man,Iron Man 2,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+139,Iron Man,Marvel’s The Avengers,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0.0
+139,Iron Man,Iron Man 3,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+139,Iron Man,Avengers: Age of Ultron,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+139,Iron Man,Captain America: Civil War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+139,Iron Man,Spider-Man: Homecoming,Avengers,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+139,Iron Man,Avengers: Infinity War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+139,Iron Man,Avengers: Endgame,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+139,Iron Man,Spider-Man: Far From Home,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+140,Ivan Vanko,Iron Man 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ivan Vanko,1.0
+141,J. Jonah Jameson,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+141,J. Jonah Jameson,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+142,J.A.R.V.I.S.,Iron Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0.0
+142,J.A.R.V.I.S.,Iron Man 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+142,J.A.R.V.I.S.,Marvel’s The Avengers,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0.0
+142,J.A.R.V.I.S.,Iron Man 3,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+142,J.A.R.V.I.S.,Avengers: Age of Ultron,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+143,Jack Rollins,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+143,Jack Rollins,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+144,Jack Taggert,Iron Man 3,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+145,Jacques Dernier,Captain America: The First Avenger,Howling Commandos,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+146,Jademurai,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+147,James Montgomery Falsworth,Captain America: The First Avenger,Howling Commandos,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+148,Janet van Dyne,Ant-Man and the Wasp,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+148,Janet van Dyne,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+148,Janet van Dyne,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+149,Jason Ionello,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+149,Jason Ionello,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+150,Jasper Sitwell,Thor,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+150,Jasper Sitwell,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+150,Jasper Sitwell,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+151,Jentorra,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+152,Jim Morita,Captain America: The First Avenger,Howling Commandos,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+153,Jim Paxton,Ant-Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+153,Jim Paxton,Ant-Man and the Wasp,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+154,Jimmy Woo,Ant-Man and the Wasp,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+154,Jimmy Woo,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+155,Jon Jon,Shang-Chi and the Legend of the Ten Rings,Unnafiliated,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+156,Jonathan Pangborn,Doctor Strange,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+157,Julius Dell,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+157,Julius Dell,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+158,Justin Hammer,Iron Man 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Justin Hammer,1.0
+159,Kaecilius,Doctor Strange,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kaecilius,1.0
+160,Kang the Conqueror,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Kang the Conqueror,1.0
+161,Karen,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+162,Karl Mordo,Doctor Strange,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+162,Karl Mordo,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+163,Karun Patel,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+164,Katy,Shang-Chi and the Legend of the Ten Rings,Unnafiliated,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+165,Killmonger,Black Panther,Guardians of the Multiverse,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Killmonger,1.0
+165,Killmonger,Black Panther: Wakanda Forever,Guardians of the Multiverse,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Killmonger,1.0
+166,Kingo,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+167,Korath,Guardians of the Galaxy,Starforce,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+167,Korath,Captain Marvel,Starforce,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+168,Korg,Thor: Ragnarok,Revengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0.0
+168,Korg,Avengers: Endgame,Revengers,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+168,Korg,Thor: Love and Thunder,Revengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+169,Kraglin Obfonteri,Guardians of the Galaxy,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+169,Kraglin Obfonteri,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+169,Kraglin Obfonteri,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+169,Kraglin Obfonteri,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+170,Kro,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+171,Krylar,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+172,Kurse,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+173,Kurt,Ant-Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+173,Kurt,Ant-Man and the Wasp,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+174,Laufey,Thor,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+175,Laura Barton,Avengers: Age of Ultron,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+175,Laura Barton,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+176,Leonard Samson,The Incredible Hulk,Unnafiliated,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+177,Lerato,Black Widow,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0.0
+178,Lila Barton,Avengers: Age of Ultron,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+178,Lila Barton,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+179,Linda,Black Panther,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+180,List,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+181,Liz,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+182,Lizard,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+183,Loki,Thor,Revengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Loki,1.0
+183,Loki,Thor: The Dark World,Revengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Loki,1.0
+183,Loki,Thor: Ragnarok,Revengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Loki,1.0
+183,Loki,Avengers: Infinity War,Revengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Loki,1.0
+183,Loki,Avengers: Endgame,Revengers,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Loki,1.0
+183,Loki,Thor: Love and Thunder,Revengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Loki,1.0
+183,Loki,Ant-Man and the Wasp: Quantumania,Revengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Loki,1.0
+184,Love,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+185,Lucian Aster,Doctor Strange,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+186,Luis,Ant-Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+186,Luis,Ant-Man and the Wasp,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+187,M’Baku,Black Panther,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+187,M’Baku,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+187,M’Baku,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+187,M’Baku,Black Panther: Wakanda Forever,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+188,Mac Gargan,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+189,Maggie,Ant-Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+189,Maggie,Ant-Man and the Wasp,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+190,Mainframe,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+191,Makkari,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+192,Malekith,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Malekith,1.0
+193,Mantis,Guardians of the Galaxy Vol. 2,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+193,Mantis,Avengers: Infinity War,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+193,Mantis,Avengers: Endgame,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+193,Mantis,Thor: Love and Thunder,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+194,Mar-Vell,Captain Marvel,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+195,Maria Hill,Marvel’s The Avengers,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0.0
+195,Maria Hill,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+195,Maria Hill,Avengers: Age of Ultron,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+195,Maria Hill,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+195,Maria Hill,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+195,Maria Hill,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+196,Maria Rambeau,Captain Marvel,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+197,Maria Stark,Captain America: Civil War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+198,Martinex,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+199,Matthew Ellis,Iron Man 3,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+200,May Parker,Captain America: Civil War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+200,May Parker,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+200,May Parker,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+200,May Parker,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+200,May Parker,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+201,Maya Hansen,Iron Man 3,A.I.M.,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+202,Meredith Quill,Guardians of the Galaxy,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+202,Meredith Quill,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+203,Michelle “MJ”,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+203,Michelle “MJ”,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+203,Michelle “MJ”,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+204,Mighty Thor,Thor,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+204,Mighty Thor,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+204,Mighty Thor,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+204,Mighty Thor,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+205,Minerva,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+206,Minn-Erva,Captain Marvel,Starforce,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+207,Miriam Sharpe,Captain America: Civil War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+208,Mitchell Carson,Ant-Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+209,Mobius M. Mobius,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+210,Monica Rambeau,Captain Marvel,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+211,Morgan Stark,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+212,Mr. Cobbwell,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+213,Mr. Delmar,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+214,Mr. Hapgood,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+215,Mrs. Chen,Shang-Chi and the Legend of the Ten Rings,Unnafiliated,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+216,Ms. Warren,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+217,Mysterio,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Mysterio,1.0
+217,Mysterio,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Mysterio,1.0
+218,N’Jobu,Black Panther,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+219,Nakia,Black Panther,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+219,Nakia,Black Panther: Wakanda Forever,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+220,Namor,Black Panther: Wakanda Forever,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Namor,1.0
+221,Namora,Black Panther: Wakanda Forever,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+222,Narblik,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+223,Nathaniel Barton,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+224,Nebula,Guardians of the Galaxy,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+224,Nebula,Guardians of the Galaxy Vol. 2,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+224,Nebula,Avengers: Infinity War,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+224,Nebula,Avengers: Endgame,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+224,Nebula,Thor: Love and Thunder,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+225,Ned Leeds,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+225,Ned Leeds,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+225,Ned Leeds,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+225,Ned Leeds,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+225,Ned Leeds,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+226,Nick Fury,Iron Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0.0
+226,Nick Fury,Iron Man 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+226,Nick Fury,Thor,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+226,Nick Fury,Captain America: The First Avenger,Unnafiliated,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+226,Nick Fury,Marvel’s The Avengers,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0.0
+226,Nick Fury,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+226,Nick Fury,Avengers: Age of Ultron,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+226,Nick Fury,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+226,Nick Fury,Captain Marvel,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+226,Nick Fury,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+226,Nick Fury,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+227,Nicodemus West,Doctor Strange,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+227,Nicodemus West,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+228,Nomble,Black Panther,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+228,Nomble,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+229,Nova Prime,Guardians of the Galaxy,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+230,Obadiah Stane,Iron Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Obadiah Stane,1.0
+230,Obadiah Stane,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Obadiah Stane,1.0
+231,Oblo,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+232,Odin,Thor,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+232,Odin,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+232,Odin,Thor: Ragnarok,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0.0
+232,Odin,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+233,Okoye,Black Panther,Dora Milaje,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+233,Okoye,Avengers: Infinity War,Dora Milaje,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+233,Okoye,Avengers: Endgame,Dora Milaje,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+233,Okoye,Black Panther: Wakanda Forever,Dora Milaje,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+234,Oksana,Black Widow,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0.0
+235,P. Cleary,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+42,Peggy Carter,Captain America: The First Avenger,Guardians of the Multiverse,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+42,Peggy Carter,Captain America: The Winter Soldier,Guardians of the Multiverse,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+42,Peggy Carter,Avengers: Age of Ultron,Guardians of the Multiverse,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+42,Peggy Carter,Ant-Man,Guardians of the Multiverse,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+42,Peggy Carter,Avengers: Endgame,Guardians of the Multiverse,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+236,Phastos,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+237,Phil Coulson,Iron Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0.0
+237,Phil Coulson,Iron Man 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+237,Phil Coulson,Thor,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+237,Phil Coulson,Marvel’s The Avengers,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0.0
+237,Phil Coulson,Captain Marvel,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+238,Pietro Maximoff,Captain America: The Winter Soldier,Avengers,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+239,Pip the Troll,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+240,Principal Morita,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+241,Proxima Midnight,Avengers: Infinity War,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+241,Proxima Midnight,Avengers: Endgame,Children of Thanos,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+242,Quaz,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+243,Rama-Tut,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+244,Ramonda,Black Panther,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+244,Ramonda,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+244,Ramonda,Black Panther: Wakanda Forever,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+245,Rapu,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+246,Raza,Iron Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0.0
+247,Razor Fist,Shang-Chi and the Legend of the Ten Rings,Unnafiliated,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+248,Red Guardian,Black Widow,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0.0
+249,Red Skull,Captain America: The First Avenger,Unnafiliated,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Red Skull,1.0
+249,Red Skull,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Red Skull,1.0
+249,Red Skull,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Red Skull,1.0
+250,Reed Richards,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+251,Retch,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+252,Rhomann Dey,Guardians of the Galaxy,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+253,Richard,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+254,Rick Mason,Black Widow,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0.0
+255,Rintrah,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+256,Riri Williams,Black Panther: Wakanda Forever,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+257,Rocket,Guardians of the Galaxy,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+257,Rocket,Guardians of the Galaxy Vol. 2,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+257,Rocket,Avengers: Infinity War,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+257,Rocket,Avengers: Endgame,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+257,Rocket,Thor: Love and Thunder,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+258,Rodriguez,Iron Man 3,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+259,Roger Harrington,The Incredible Hulk,Unnafiliated,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+259,Roger Harrington,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+259,Roger Harrington,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+259,Roger Harrington,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+260,Ronan the Accuser,Guardians of the Galaxy,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Ronan the Accuser,1.0
+260,Ronan the Accuser,Captain Marvel,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Ronan the Accuser,1.0
+261,Ruihua,Shang-Chi and the Legend of the Ten Rings,Unnafiliated,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+262,Sally,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+262,Sally,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+263,Samuel Sterns,The Incredible Hulk,Unnafiliated,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+264,Sandman,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+265,Sara,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+266,Scarlet Witch,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+266,Scarlet Witch,Captain America: Civil War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+266,Scarlet Witch,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+266,Scarlet Witch,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+266,Scarlet Witch,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+267,Scott Lang,Ant-Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+268,Scrote,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+269,Sersi,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+270,Seymour,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+271,Sharon Carter,Captain America: Civil War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+272,Shaun,Shang-Chi and the Legend of the Ten Rings,Unnafiliated,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+273,Shocker,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+274,Shuri,Black Panther,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+274,Shuri,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+274,Shuri,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+275,Sif,Thor,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+275,Sif,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+275,Sif,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+276,Sinister Strange,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+277,Skurge,Thor: Ragnarok,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0.0
+278,Smitty,Black Panther: Wakanda Forever,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+279,Sonny Burch,Ant-Man and the Wasp,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+280,Soren,Captain Marvel,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+280,Soren,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+281,Spider-Man,Captain America: Civil War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+281,Spider-Man,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+281,Spider-Man,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+281,Spider-Man,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+281,Spider-Man,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+281,Spider-Man,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+282,Sprite,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+283,Stakar Ogord,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+284,Star-Lord,Guardians of the Galaxy,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+284,Star-Lord,Guardians of the Galaxy Vol. 2,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+284,Star-Lord,Avengers: Infinity War,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+284,Star-Lord,Avengers: Endgame,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+284,Star-Lord,Thor: Love and Thunder,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+285,Starfox,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+286,Stephen Strange,Doctor Strange,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+286,Stephen Strange,Thor: Ragnarok,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0.0
+286,Stephen Strange,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+286,Stephen Strange,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+286,Stephen Strange,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+286,Stephen Strange,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+287,Stern,Iron Man 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+287,Stern,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+288,Supreme Intelligence,Captain Marvel,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+289,Supreme Strange,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+290,Surtur,Thor: Ragnarok,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0.0
+291,T’Chaka,Captain America: Civil War,Guardians of the Multiverse,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+291,T’Chaka,Black Panther,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+292,T’Challa,Black Panther: Wakanda Forever,Guardians of the Multiverse,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+293,Talos,Captain Marvel,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+293,Talos,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+294,Taserface,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+295,Taskmaster,Black Widow,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Taskmaster,1.0
+296,"Thaddeus ""Thunderbolt"" Ross",The Incredible Hulk,Unnafiliated,0.0,0.0,0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+296,"Thaddeus ""Thunderbolt"" Ross",Captain America: Civil War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+296,"Thaddeus ""Thunderbolt"" Ross",Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+296,"Thaddeus ""Thunderbolt"" Ross",Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+296,"Thaddeus ""Thunderbolt"" Ross",Black Widow,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0.0
+297,Thanos,Marvel’s The Avengers,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Thanos,1.0
+297,Thanos,Guardians of the Galaxy,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Thanos,1.0
+297,Thanos,Avengers: Age of Ultron,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Thanos,1.0
+297,Thanos,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Thanos,1.0
+297,Thanos,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Thanos,1.0
+298,The Broker,Guardians of the Galaxy,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+299,The Collector,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+299,The Collector,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+300,The Other,Marvel’s The Avengers,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0.0
+300,The Other,Guardians of the Galaxy,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+301,Thena,Eternals,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+302,Thor,Thor,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+302,Thor,Thor: The Dark World,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+302,Thor,Avengers: Age of Ultron,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+302,Thor,Doctor Strange,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+302,Thor,Thor: Ragnarok,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0.0
+302,Thor,Avengers: Infinity War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+302,Thor,Avengers: Endgame,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+302,Thor,Thor: Love and Thunder,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+303,"Timothy ""Dum Dum""Dugan",Captain America: The First Avenger,Howling Commandos,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+304,Tina Minoru,Doctor Strange,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+305,Tinkerer,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+306,Tiny,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+306,Tiny,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+307,Tommy Maximoff,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+308,Topaz,Thor: Ragnarok,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0.0
+309,Toussaint T’Challa,Black Panther: Wakanda Forever,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+310,Trevor Slattery,Iron Man 3,A.I.M.,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Trevor Slattery,1.0
+310,Trevor Slattery,Shang-Chi and the Legend of the Ten Rings,A.I.M.,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Trevor Slattery,1.0
+311,Tullk,Guardians of the Galaxy Vol. 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+312,Tyr,Thor: The Dark World,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+313,Ultron,Avengers: Age of Ultron,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Ultron,1.0
+313,Ultron,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Ultron,1.0
+314,Ulysses Klaue,Avengers: Age of Ultron,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Ulysses Klaue,1.0
+314,Ulysses Klaue,Black Panther,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Ulysses Klaue,1.0
+315,Ursa,Black Widow,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,,0.0
+316,Uzman,Ant-Man and the Wasp,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+317,Valkyrie,Thor: Ragnarok,Revengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0.0
+317,Valkyrie,Avengers: Endgame,Revengers,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+317,Valkyrie,Thor: Love and Thunder,Revengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+318,Veb,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+319,Venom,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+320,Victor Timely,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+321,"Virginia ""Pepper"" Potts",Iron Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0.0
+321,"Virginia ""Pepper"" Potts",Iron Man 2,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+321,"Virginia ""Pepper"" Potts",Marvel’s The Avengers,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,0.0
+321,"Virginia ""Pepper"" Potts",Iron Man 3,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+321,"Virginia ""Pepper"" Potts",Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+321,"Virginia ""Pepper"" Potts",Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+321,"Virginia ""Pepper"" Potts",Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+322,Vision,Avengers: Age of Ultron,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+322,Vision,Captain America: Civil War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+322,Vision,Avengers: Infinity War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+323,Volstagg,Thor,Warriors Three,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,,0.0
+323,Volstagg,Thor: The Dark World,Warriors Three,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,,0.0
+323,Volstagg,Thor: Ragnarok,Warriors Three,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,,0.0
+323,Volstagg,Thor: Love and Thunder,Warriors Three,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+324,Vulture,Spider-Man: Homecoming,Unnafiliated,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vulture,1.0
+325,W’Kabi,Black Panther,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+326,Wanda Maximoff,Doctor Strange in the Multiverse of Madness,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Wanda Maximoff,1.0
+327,War Machine,Iron Man,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0.0
+327,War Machine,Iron Man 2,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+327,War Machine,Iron Man 3,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+327,War Machine,Avengers: Age of Ultron,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,,0.0
+327,War Machine,Captain America: Civil War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+327,War Machine,Avengers: Infinity War,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+327,War Machine,Captain Marvel,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+327,War Machine,Avengers: Endgame,Avengers,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+328,Wasp,Ant-Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+328,Wasp,Ant-Man and the Wasp,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+328,Wasp,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+328,Wasp,Ant-Man and the Wasp: Quantumania,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+329,William Ginter Riva,Iron Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,,0.0
+329,William Ginter Riva,Spider-Man: Far From Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,0.0
+330,Winter Soldier,Captain America: The First Avenger,Unnafiliated,0.0,0.0,0.0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Winter Soldier,1.0
+330,Winter Soldier,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Winter Soldier,1.0
+330,Winter Soldier,Ant-Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Winter Soldier,1.0
+330,Winter Soldier,Captain America: Civil War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Winter Soldier,1.0
+330,Winter Soldier,Black Panther,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Winter Soldier,1.0
+330,Winter Soldier,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Winter Soldier,1.0
+330,Winter Soldier,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Winter Soldier,1.0
+331,Wolfgang von Strucker,Captain America: The Winter Soldier,Unnafiliated,0.0,0.0,0.0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+332,Wong,Doctor Strange,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+332,Wong,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+332,Wong,Avengers: Endgame,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+332,Wong,Shang-Chi and the Legend of the Ten Rings,Unnafiliated,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+332,Wong,Spider-Man: No Way Home,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,,0.0
+332,Wong,Doctor Strange in the Multiverse of Madness,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+333,Wu,Iron Man 3,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+334,Xoliswa,Black Panther,Dora Milaje,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+335,Xu Wenwu,Shang-Chi and the Legend of the Ten Rings,Unnafiliated,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Xu Wenwu,1.0
+336,Xu Xialing,Shang-Chi and the Legend of the Ten Rings,Unnafiliated,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+337,Yakan,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+338,Yama,Black Panther,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
+338,Yama,Avengers: Infinity War,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,,0.0
+339,Yellowjacket,Ant-Man,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Yellowjacket,1.0
+340,Ying Li,Shang-Chi and the Legend of the Ten Rings,Unnafiliated,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+341,Ying Nan,Shang-Chi and the Legend of the Ten Rings,Unnafiliated,0.0,0.0,0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+342,Yon-Rogg,Captain Marvel,Starforce,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Yon-Rogg,1.0
+343,Yondu Udonta,Guardians of the Galaxy,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,,0.0
+343,Yondu Udonta,Guardians of the Galaxy Vol. 2,Guardians of the Galaxy,0.0,0.0,0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+344,Zeus,Thor: Love and Thunder,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,,0.0
+345,Zuri,Black Panther,Unnafiliated,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,,0.0
